@@ -1,0 +1,32 @@
+.navbar-container{
+    height: 80px;
+}
+
+.suene-logo{
+    border-radius: 200px;
+    margin-top: 60px;
+}
+
+
+.card{
+    margin-top: 20px;
+}
+
+.skills-logo{
+    border-radius: 200px;
+    height: 50%;
+    width: 100%;
+    margin-top: 80px;
+}
+
+i{
+    font-size: 20px;
+}
+
+h2{
+    color: rgb(5, 90, 170);
+}
+
+a{
+    text-decoration: none;
+}
